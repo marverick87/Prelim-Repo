@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531981089317.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4284476426",
+    "id" : "83BC2AEE",
+    "lastKnownWriteTime" : 1531986460,
+    "last_content_update" : -2147483648,
+    "path" : "~/Prelim/SW_Prelim/SW_Prelim.R",
+    "project_path" : "SW_Prelim.R",
+    "properties" : {
+        "cursorPosition" : "21,11",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
